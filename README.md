@@ -1,14 +1,7 @@
 # About Me:
-
 Hi, I'm Tanushree Verma 👋<br><br>
-
-ELCE undergraduate with an interest in Data Science and Machine Learning.<br><br>
-
-Currently learning Python, DSA, and Machine Learning while building projects and documenting my learning journey on GitHub.<br><br>
-
-I enjoy solving problems, working with data, and turning ideas into projects.<br><br>
-
-Always curious, always learning.
+B.Tech student in Electrical and Computer Engineering with an interest in Data Science and Machine Learning.<br><br>
+Currently learning Python, DSA, and ML while building projects and sharing my progress on GitHub.
 
 
 ## 🌐 Socials:
